@@ -227,7 +227,7 @@
     box-shadow: 1px 4px 15px rgba(0, 0, 0, 0.32);
   }
   .about-container .right-about .about-item .abt-text {
-    padding: 1.5rem;
+    padding: 3rem;
     display: flex;
     flex-direction: column;
   }
@@ -306,24 +306,32 @@
     width: 60%;
   }
   .about-stats .progress-bars .progress-bar .progress-con .progress .html {
-    width: 80%;
-  }
-  .about-stats .progress-bars .progress-bar .progress-con .progress .css {
-    width: 95%;
-  }
-  .about-stats .progress-bars .progress-bar .progress-con .progress .js {
     width: 75%;
   }
-  .about-stats .progress-bars .progress-bar .progress-con .progress .react {
-    width: 60%;
+  .about-stats .progress-bars .progress-bar .progress-con .progress .css {
+    width: 75%;
   }
-  .about-stats .progress-bars .progress-bar .progress-con .progress .node {
-    width: 87%;
+  .about-stats .progress-bars .progress-bar .progress-con .progress .js {
+    width: 0%;
+  }
+  .about-stats .progress-bars .progress-bar .progress-con .progress .c {
+    width: 90%;
+  }
+  .about-stats .progress-bars .progress-bar .progress-con .progress .vsb {
+    width: 95%;
   }
   .about-stats .progress-bars .progress-bar .progress-con .progress .python {
-    width: 70%;
+    width: 60%;
   }
-  
+  .about-stats .progress-bars .progress-bar .progress-con .progress .java {
+    width: 90%;
+  }
+  .about-stats .progress-bars .progress-bar .progress-con .progress .sql {
+    width: 95%;
+  }
+  .about-stats .progress-bars .progress-bar .progress-con .progress .swing {
+    width: 90%;
+  }
   .stat-title {
     text-transform: uppercase;
     font-size: 1.4rem;
